@@ -20,9 +20,9 @@ This is a blank repository all set up for you to start your own website. We incl
 ## Theme examples
 
 Want to use our theme but don't know where to start? Check out:
-  - Our theme <a href="https://theme.hackclub.com/">here</a>
-  - Our theme documentation <a href="https://github.com/hackclub/css">here</a>
-  - A static example of a site using our theme <a href="https://github.com/hackclub/contribute">here</a>
+  - View our theme elements <a href="https://theme.hackclub.com/">here</a>
+  - View our theme documentation <a href="https://github.com/hackclub/css">here</a>
+  - View a static example of a site using our theme <a href="https://github.com/hackclub/contribute">here</a>
   - Join the <a href="https://hackclub.com/slack/">Hack Club Slack</a> and ask community members how they're using the theme!
 
 ## Contributing
