@@ -33,12 +33,3 @@ Want to use our theme but don't know where to start? Check out:
 Contributions are encouraged and welcome! Feel free to submit a pull request with code changes, or open issues for suggestions or bug reports.
 
 Development chatter happens in the [#hackclub-site-dev](https://app.slack.com/client/T0266FRGM/C036BTDGP43) channel in the [Hack Club Slack](https://hackclub.com/slack/).
-
-## Running Locally
-
-1. Clone this repository
-   - `git clone https://github.com/hackclub/static-site-template.git && cd static-site-template`
-1. Start server
-   - `python -m SimpleHTTPServer`
-1. View your server
-   - `open http://localhost:8000/`
