@@ -6,9 +6,9 @@ Looking for a basic website template that includes Hack Club's theme CSS? Look n
 
 This is a blank repository all set up for you to start your own website. We include [Hack Club's theme](https://theme.hackclub.com/) [CSS](theme.css) for you to use if you wish.
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository to create a copy of it
+1. [Click the "Use this template" button](https://github.com/hackclub/css-starter/generate) to create a copy of this repository
 1. Clone your new repository
-   - `git clone https://github.com/<YOURUSERNAMEHERE>/static-site-template.git && cd static-site-template`
+   - `git clone https://github.com/<YOURUSERNAMEHERE>/<YOURREPOSITORYNAME>.git && cd <YOURREPOSITORYNAME>`
 1. Start server
    - `python -m SimpleHTTPServer`
 1. View your server
@@ -34,7 +34,7 @@ Development chatter happens in the [#hackclub-site-dev](https://app.slack.com/cl
 ## Running Locally
 
 1. Clone this repository
-   - `git clone https://github.com/hackclub/static-site-template.git && cd static-site-template`
+   - `git clone https://github.com/hackclub/css-starter.git && cd css-starter`
 1. Start server
    - `python -m SimpleHTTPServer`
 1. View your server
