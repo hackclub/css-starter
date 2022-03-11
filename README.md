@@ -24,6 +24,8 @@ This is a blank repository all set up for you to start your own website. We incl
 -- it will take you to your dashboard. Then click `New project.` Select the github repository.
 -- Add your project name and then click `deploy`
 -- click the `visit` button to see your website!
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhackclub%2Fcss-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hackclub/css-starter)
 
 
 ## Theme examples
