@@ -1,6 +1,6 @@
-# Static Site Template
+# CSS Starter Template
 
-Looking for a static site template? Look no further!
+Looking for a basic website template that includes Hack Club's theme CSS? Look no further!
 
 ## How it works
 
