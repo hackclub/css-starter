@@ -6,16 +6,19 @@ Looking for a basic website template that includes Hack Club's theme CSS? Look n
 
 This is a blank repository all set up for you to start your own website. We include [Hack Club's theme](https://theme.hackclub.com/) [CSS](theme.css) for you to use if you wish.
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository to create a copy of it
-1. Clone your new repository
-   - `git clone https://github.com/<YOURUSERNAMEHERE>/static-site-template.git && cd static-site-template`
+1. [Create a copy](https://github.com/hackclub/css-starter/generate) of this template repository and name it `css-starter`
+1. Download or clone your new repository by clicking the green `Code` button 
+   - For downloading, click `Download Zip`. Drag that file to your desktop, open your terminal, and navigate to the file in your terminal:
+      - Mac: `cd ~/Desktop/css-starter`
+      - Windows: `cd C:\Users\%USERNAME%\Desktop\css-starter`
+   - For cloning on the command line, copy the URL they provide and type into your command line `git clone <URL> && cd css-starter` into your terminal, replacing <URL> with the URL you copied
 1. Start server
    - `python -m SimpleHTTPServer`
 1. View your server
    - `open http://localhost:8000/`
 1. Write your code and refresh to see the changes
 1. Deploy your website to the internet!
-   - We recommend [Vercel](https://vercel.com/docs/get-started), it's an easy free way to get your website up quickly.
+   - We recommend [Vercel](https://vercel.com/docs/get-started), it's an simple and free way to get your website up quickly.
 
 ## Theme examples
 
