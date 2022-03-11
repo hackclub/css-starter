@@ -19,6 +19,12 @@ This is a blank repository all set up for you to start your own website. We incl
 1. Write your code and refresh to see the changes
 1. Deploy your website to the internet!
    - We recommend [Vercel](https://vercel.com/docs/get-started), it's an simple and free way to get your website up quickly.
+   - To use vercel go to vercel.com
+   -- make an account using your Github!
+-- it will take you to your dashboard. Then click `New project.` Select the github repository.
+-- Add your project name and then click `deploy`
+-- click the `visit` button to see your website!
+
 
 ## Theme examples
 
