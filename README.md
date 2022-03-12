@@ -19,6 +19,15 @@ This is a blank repository all set up for you to start your own website. We incl
 1. Write your code and refresh to see the changes
 1. Deploy your website to the internet!
    - We recommend [Vercel](https://vercel.com/docs/get-started), it's an simple and free way to get your website up quickly.
+   - To use Vercel go to [vercel.com](https://vercel.com/)
+      - Create an account by authenticating your GitHub account with Vercel
+      - Click `New project` on your dashboard
+      - Select your `css-starter` GitHub repository
+      - Add your project name and click `Deploy`
+      - Click the `Visit` button to see your website!
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhackclub%2Fcss-starter) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hackclub/css-starter)
+
 
 ## Theme examples
 
