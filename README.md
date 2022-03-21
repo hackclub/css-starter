@@ -4,7 +4,7 @@ Looking for a basic website template that includes Hack Club's theme CSS? Look n
 
 ## How it works
 
-This is a blank repository all set up for you to start your own website. We include [Hack Club's theme](https://theme.hackclub.com/) [CSS](theme.css) for you to use if you wish.
+This is a blank repository all set up for you to start your own website. We include [Hack Club's theme](https://css.hackclub.com/) [CSS](theme.css) for you to use if you wish.
 
 1. [Create a copy](https://github.com/hackclub/css-starter/generate) of this template repository and name it `css-starter`
 1. Download or clone your new repository by clicking the green `Code` button 
